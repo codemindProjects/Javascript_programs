@@ -1,1 +1,1 @@
-console.log("Samriddhi  Chandra");           
+console.log("Samriddhi Chandra");           
